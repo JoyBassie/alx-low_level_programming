@@ -1,12 +1,16 @@
 
 #include <stdio.h>
-/**
 
-* main - main block
-* Return: O
+/**
+* 
+   main - print the string in put function
+*
+*  Description: using main function
+*  This prints "Programming is like building a multilingual puzzle
+*  Return: 0
 */
 
 int main(void)
 {
-  puts("\"Programming is like building a multilingual puzzle");
-  return (O);
+        puts("\"Programming is like building a multilingual puzzle");
+        return (0);
