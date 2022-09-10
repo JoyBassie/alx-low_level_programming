@@ -2,8 +2,10 @@
 #include <stdio.h>
 
 /**
-* main - Alphabets in lowercase and uppercase
+* main - Alphabets in lowercase 
 *
+* Description: using the main function 
+* this program prints alphabets in lowercase 
 * Return: 0
 */
 int main(void)
