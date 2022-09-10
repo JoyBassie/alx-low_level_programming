@@ -4,7 +4,9 @@
 /**
 * main - Alphabets in lowercase
 *
-* Return: Always 0.
+* Description : using the main function 
+* this program prints alphabet in lower case and in upper case
+* Return: 0
 */
 int main(void)
 {
