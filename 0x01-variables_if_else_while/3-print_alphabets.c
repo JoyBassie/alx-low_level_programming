@@ -1,4 +1,10 @@
 
+
+/* 
+* File: 3-print_alphabets.c
+* Author: Joy Bassey 
+*/
+
 #include <stdio.h>
 
 /**
