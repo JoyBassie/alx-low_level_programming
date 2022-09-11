@@ -1,20 +1,5 @@
-#include <stdio.h>
+Write a program that prints the lowercase alphabet in reverse, followed by a new line.
 
-/**
-* main - Prints the alphabet in reverse 
-*
-* Return: Always 0.
-*/
-int main(void)
-{
-	char c;
-
-for (ch = 'z'; ch >= 'a'; ch--)
-{
-putchar(ch);
-}
-putchar('\n');
-
-	return (0);
-}
-
+You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+All your code should be in the main function
+You can only use putchar twice in your code

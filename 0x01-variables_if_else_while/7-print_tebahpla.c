@@ -6,16 +6,14 @@
 * Return: Always 0.
 */
 int main(void)
-	
 {
 char c;
 
-for (ch = 'z'; ch >= 'a'; ch--)
+for (c = 'z'; c >= 'a'; c --)
 {
-putchar(ch);
+putchar(c);
 }
 putchar('\n');
-
 return (0);
 }
 
