@@ -1,11 +1,10 @@
 
 #include <stdio.h>
-
+#include <stlib.h>
+#include <time.h>
 /**
 * main - Alphabets in lowercase 
-*
-* Description: using the main function 
-* this program prints alphabets in lowercase 
+* 
 * Return: 0
 */
 int main(void)
