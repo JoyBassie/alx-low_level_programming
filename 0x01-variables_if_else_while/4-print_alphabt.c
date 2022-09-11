@@ -1,10 +1,8 @@
-
 #include <stdio.h>
-#include <stlib.h>
-#include <time.h>
+
 /**
-* main - Alphabets in lowercase 
-* 
+* main - Entry point
+*
 * Return: 0
 */
 int main(void)
