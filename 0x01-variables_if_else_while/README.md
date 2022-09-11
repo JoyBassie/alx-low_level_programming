@@ -1,6 +1,20 @@
-Write a program that prints the alphabet in lowercase, followed by a new line.
+#include <stdio.h>
 
-Print all the letters except q and e
-You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
-All your code should be in the main function
-You can only use putchar twice in your code
+/**
+* main - Prints the alphabet in reverse 
+*
+* Return: Always 0.
+*/
+int main(void)
+{
+	char c;
+
+for (ch = 'z'; ch >= 'a'; ch--)
+{
+putchar(ch);
+}
+putchar('\n');
+
+	return (0);
+}
+
