@@ -1,4 +1,4 @@
-#include <<stdio.h> 
+#include <stdio.h> 
 /**
 * main - Printing numbers 0-9 with commas and spaces in between 
 *
