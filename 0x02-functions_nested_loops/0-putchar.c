@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	 putchar(' ');
+	 char('_');
 	 putchar('p');
 	 putchar('u');
 	 putchar('t');
